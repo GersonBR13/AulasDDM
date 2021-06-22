@@ -1,0 +1,4 @@
+Sugestão de projeto usando GeoLocalização
+
+Considerando que temos a geolocalização do dispositivo, podemos usar isso para identificar locais a qual a pessoa está próxima para incentivar ela a ir para algum local. Por exemplo: Uma pessoa está acessando nosso site próxima a um de nossos estabelecimento ou parceiros, é possível mostrarmos um Ad para indicar que ela está próxima e que poderia passar lá para ver nossos produtos. 
+Também é possível fazer uma aplicação para monitorar caminhadas, fazendo a pessoa saber quanto tempo e qual distância ela percorreu. 
